@@ -19,7 +19,7 @@ step = reader.get_input()
 #     "L82"
 # ]
 
-
+# part - 1 solution
 def rotate(step):
     start = 50
     ans = 0
