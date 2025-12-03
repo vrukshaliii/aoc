@@ -43,21 +43,3 @@ if __name__ == "__main__":
     main()
     
     
-    # dial = [i for i in range(0, 100)]
-    # ans = 0
-    # extract direction and number from step
-        # direction = step[0]
-        # number = step[1:]
-    # for i in range(step):
-        # if direction = 'L':
-            # diff = abs((start+number)-0)
-            # if diff == 0:
-                # start = start - number
-        
-        # else:
-            # diff = abs((start+number)-99)
-            # if diff == 0:
-                #  start = start + number
-            
-        # if start == 0:
-            #  ans+=1
